@@ -16,6 +16,7 @@ button {
   color: #fff;
   border: none;
   font-size: 22px;
+  margin: 0 10px;
 }
 
 .list {
@@ -49,5 +50,5 @@ img {
 .ec-flex {
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: flex-start;
 }
